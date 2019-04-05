@@ -28,7 +28,6 @@ public class RandomTest {
 
     @Test
     public void testAssertSame(){
-        int x=1;
         BancaDummy bancaDummy1=new BancaDummy();
         BancaDummy bancaDummy2=new BancaDummy();
         ArrayList<BancaDummy> list=new ArrayList<>();
